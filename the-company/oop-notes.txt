@@ -1,0 +1,13 @@
+Actions folder = all action files ~~ "if(isset)" code
+
+Assets folder = all your CSS, images, and javascript files
+
+Classes folder = all your classes
+
+Views folder = all view/ dispalyfiles = User Interface, HTML, BOOTSTRAP
+
+------------------------------------------------------------------------
+
+ C = CREATE  INSERT INTO   Regidtration
+ R = Retieve  SELECT     Login and Dashboard
+ U = 
